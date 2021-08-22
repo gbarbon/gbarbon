@@ -9,8 +9,22 @@ I previously worked in academic research, in particular on:
 
 I also worked in the industrial IoT field, as a software developer at [Eurotech](https://github.com/eurotech) and as a committer of [Kapua](https://github.com/eclipse/kapua), an [Eclipse Foundation](https://github.com/eclipse) IoT open-source project. 
 
+#### :link: Links
+
 - :page_facing_up:  My publications: https://dblp.uni-trier.de/pid/168/1123.html
 - 📫 How to reach me: https://it.linkedin.com/in/gbarbon/
+
+#### 📈 Github Stats
+
+<a align="center" href="https://github.com/gbarbon">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gbarbon&show_icons=true&count_private=true&include_all_commits=true" alt="My GitHub stats" width="465"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarbon&layout=compact&langs_count=6" alt="Languages" height="183">
+  </p>
+</a>
+
+<!-- Resources: -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 <!--
 **gbarbon/gbarbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
