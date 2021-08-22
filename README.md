@@ -16,11 +16,20 @@ I also worked in the industrial IoT field, as a software developer at [Eurotech]
 
 #### 📈 Github Stats
 
+<!--
 <a align="center" href="https://github.com/gbarbon">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gbarbon&show_icons=true&count_private=true&include_all_commits=true" alt="My GitHub stats" width="465"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarbon&layout=compact&langs_count=6" alt="Languages" height="183">
   </p>
+</a>
+-->
+
+<a href="https://github.com/gbarbon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbarbon&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/gbarbon">
+  <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarbon&layout=compact&langs_count=6" />
 </a>
 
 <!-- Resources: -->
