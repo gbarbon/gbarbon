@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I am Gianluca Barbon, an Italian computer science professional with an R&D background. I hold a Ph.D. in applied formal methods for software verification, and I am now working as a software engineer at Mia-Care, a [Mia-Platform](https://github.com/mia-platform) company.
+I am Gianluca Barbon, an Italian computer science professional with an R&D background. I hold a Ph.D. in applied formal methods for software verification, and I am now working as a software engineer at [Higeco](https://www.higeco.com).
 
 I previously worked in academic research, in particular on:
 - the debugging of concurrent and distributed applications, contributing to the [Clear](https://github.com/gbarbon/clear) tool;
 - a degradation-aware privacy analysis of Android apps, contributing to the [DAPA](https://github.com/gbarbon/asa) static analyzer;
 - the Arduino Service Interface Protocol (ASIP), contributing to the [Python ASIP Client](https://github.com/gbarbon/python-asip) for the [ASIP](https://github.com/michaelmargolis/asip) protocol.
 
-I also worked in the industrial IoT field, as a software developer at [Eurotech](https://github.com/eurotech) and as a committer of [Kapua](https://github.com/eclipse/kapua), an [Eclipse Foundation](https://github.com/eclipse) IoT open-source project. 
+I also worked in sowftware development, in particular:
+- in the IoT field, as a software developer at [Eurotech](https://www.eurotech.com/) and as a committer of [Kapua](https://github.com/eclipse/kapua), an [Eclipse Foundation](https://github.com/eclipse) IoT open-source project;
+- in the healthcare field, as a software engineer at [Mia-Care](https://mia-care.io/), a [Mia-Platform](https://mia-platform.eu/) company.
 
 #### :link: Links
 
