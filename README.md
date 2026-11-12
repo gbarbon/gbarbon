@@ -16,9 +16,10 @@ I also worked in cloud software development, in particular:
 - :page_facing_up:  My publications: https://dblp.uni-trier.de/pid/168/1123.html
 - 📫 How to reach me: https://it.linkedin.com/in/gbarbon/
 
+<!-- apparently all stats are not working anymore
+
 #### 📈 Github Stats
 
-<!-- apparently all not working anymore
 <a align="center" href="https://github.com/gbarbon">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gbarbon&show_icons=true&count_private=true&include_all_commits=true" alt="My GitHub stats" width="465"/>
