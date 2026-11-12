@@ -18,14 +18,14 @@ I also worked in cloud software development, in particular:
 
 #### 📈 Github Stats
 
-<!--
+<!-- apparently all not working anymore
 <a align="center" href="https://github.com/gbarbon">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gbarbon&show_icons=true&count_private=true&include_all_commits=true" alt="My GitHub stats" width="465"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarbon&layout=compact&langs_count=6" alt="Languages" height="183">
   </p>
 </a>
--->
+
 
 <a href="https://github.com/gbarbon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbarbon&show_icons=true&count_private=true&include_all_commits=true" />
@@ -33,6 +33,7 @@ I also worked in cloud software development, in particular:
 <a href="https://github.com/gbarbon">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarbon&layout=compact&langs_count=6" />
 </a>
+-->
 
 <!-- Resources: -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
