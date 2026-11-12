@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Gianluca Barbon, an Italian computer science professional with an R&D background. I hold a Ph.D. in applied formal methods for software verification, and I am now working as a software engineer at [Higeco](https://www.higeco.com) in the industrial IoT field.
+I am Gianluca Barbon, an Italian computer science professional with an R&D background. I hold a Ph.D. in applied formal methods for software verification, and I am now working at [Higeco](https://www.higeco.com) in the industrial IoT field.
 
 I previously worked in academic research, in particular on:
 - the debugging of concurrent and distributed applications, contributing to the [Clear](https://github.com/gbarbon/clear) tool;
